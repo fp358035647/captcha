@@ -1,0 +1,19 @@
+{
+    "name": "fp358035647/captcha",
+    "description": "this is acp\b\b\b",
+    "type": "library",
+    "require": {
+        "ext-gd": "^7.1"
+    },
+    "autoload":{
+    	"psr-4":{"lampol\\captcha\\":"src"}
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fp358035647",
+            "email": "943274028@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
